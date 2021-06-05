@@ -2237,6 +2237,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  color: #b9304b;
 }
 
 .members-1998pB .wrapper-3t9DeA[data-user-id="280045641604792322"]::before,
