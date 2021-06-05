@@ -2310,8 +2310,8 @@ rect[mask="url(#svg-mask-status-streaming)"] { fill: var(--streaming);}
 [aria-label="Qvas"] .username-2b1r56,
 
 /* Friend list */
-.privateChannels-1nO12o [vz-user-id="596812194906374167"] .overflow-WK9Ogt,
-.privateChannels-1nO12o [data-user-id="596812194906374167"] .overflow-WK9Ogt,
+.privateChannels-1nO12o [vz-user-id="280045641604792322"] .overflow-WK9Ogt,
+.privateChannels-1nO12o [data-user-id="280045641604792322"] .overflow-WK9Ogt,
 .privateChannels-1nO12o [aria-label^="Qvas"] .overflow-WK9Ogt { 
   animation: flow 15s ease-in-out infinite;
   background: linear-gradient(-60deg, #ffe23b, #a18400, #ffe23b);
