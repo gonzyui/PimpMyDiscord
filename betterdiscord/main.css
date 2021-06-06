@@ -2234,8 +2234,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 [aria-label^="Gonz"] .profileBadges-3cJaE1:hover::before,
 [aria-label^="MathDiprio🌇"] .profileBadges-3cJaE1:hover::before {
   content: "Developers god";
-  background-color: #000;
-  background-size: auto;
+  color: #dc143c;
   display: flex;
   justify-content: flex-end;
   align-items: center;
