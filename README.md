@@ -1,4 +1,4 @@
-# GonzTheme
+# PimpMyDiscord theme
 
-I'll do this readme later..
-I'll rename theme too..
+- I'll do this readme later..
+- I'll rename theme too..
