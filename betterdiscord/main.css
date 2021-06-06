@@ -2214,12 +2214,12 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 
 /* - Badge - */
 [aria-label^="Gonz"] .profileBadges-3cJaE1 > :last-child,
-[aria-label^="Minori"] .profileBadges-3cJaE1 > :last-child {
+[aria-label^="Math"] .profileBadges-3cJaE1 > :last-child {
   margin-right: 30px;
 }
 
 [aria-label^="Gonz"] .profileBadges-3cJaE1::before,
-[aria-label^="Minori"] .profileBadges-3cJaE1::before {
+[aria-label^="Math"] .profileBadges-3cJaE1::before {
   content: "";
   position: absolute;
   width: 90px;
@@ -2232,7 +2232,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
   background-position: right top;
 }
 [aria-label^="Gonz"] .profileBadges-3cJaE1:hover::before,
-[aria-label^="Minori"] .profileBadges-3cJaE1:hover::before {
+[aria-label^="Math"] .profileBadges-3cJaE1:hover::before {
   content: "Developers god";
   color: #ff9415;
   display: flex;
