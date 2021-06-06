@@ -1,11 +1,11 @@
 /**
-* @name GonzTheme
+* @name PimpMyDiscord
 * @author Gonz#0001
-* @description GonzTheme forked from Comfy theme(Improved things)
-* @version 1.0
+* @description PimpMyDiscord is an improved fork from Comfy
+* @version 1.0.0
 */
 
-@import "https://gonzyui.github.io/GonzTheme/betterdiscord/gonz.css";
+@import "https://gonzyui.github.io/PimpMyDiscord/betterdiscord/main.css";
 .headerPlaying-j0WQBV.header-2BwW8b,
 .headerSpotify-zpWxgT.header-2BwW8b,
 .headerStreaming-2FjmGz.header-2BwW8b,
@@ -16,7 +16,7 @@
 .headerSpotify-zpWxgT.header-2BwW8b:after,
 .headerStreaming-2FjmGz.header-2BwW8b:after,
 .headerXbox-3G-4PF.header-2BwW8b:after {
-  background: url("https://gonzyui.github.io/GonzTheme/assets/wave.png");
+  background: url("https://gonzyui.github.io/PimpMyDiscord/assets/wave.png");
   background-size: 250px 20px;
   animation: animate 6s linear infinite !important;
   opacity: 1 !important;
@@ -38,20 +38,25 @@
   opacity: 0.5;
 }
 .headerPlaying-j0WQBV:before {
-  background: url("https://gonzyui.github.io/GonzTheme/assets/wave_playing.png");
+  background: url("https://gonzyui.github.io/PimpMyDiscord/assets/wave_playing.png");
   background-size: 250px 20px;
 }
 .headerSpotify-zpWxgT:before {
-  background: url("https://gonzyui.github.io/GonzTheme/assets/wave_spotify.png");
+  background: url("https://gonzyui.github.io/PimpMyDiscord/assets/wave_spotify.png");
   background-size: 250px 20px;
 }
 .headerStreaming-2FjmGz:before {
-  background: url("https://gonzyui.github.io/GonzTheme/assets/wave_streaming.png");
+  background: url("https://gonzyui.github.io/PimpMyDiscord/assets/wave_streaming.png");
   background-size: 250px 20px;
 }
 .headerXbox-3G-4PF:before {
-  background: url("https://gonzyui.github.io/GonzTheme/assets/wave_xbox.png");
+  background: url("https://gonzyui.github.io/PimpMyDiscord/assets/wave_xbox.png");
   background-size: 250px 20px;
+}
+:root {
+	--home-icon: url(https://gonzyui.github.io/PimpMyDiscord/assets/icon.png);
+  	--home-position: center;
+	--home-size: 40px;
 }
 @keyframes animate {
   0% {
@@ -158,7 +163,7 @@
   --status-radius: 22px;
   --server-radius: 22px;
   --avatar-width: 100px;
-  --bonfire: url("https://gonzyui.github.io/GonzTheme/assets/bonfire.gif");
+  --bonfire: url("https://gonzyui.github.io/PimpMyDiscord/assets/bonfire.gif");
   --colored-emoji: grayscale(0%);
   --mention-color: #f04747;
   --unread-color: #7289da;
