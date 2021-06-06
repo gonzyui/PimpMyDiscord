@@ -1537,14 +1537,19 @@ div:not(.headerFill-adLl4x)
   margin: 0;
   padding: 8px 12px;
 }
+.homeIcon-FuNwkv {
+  width: 100%;
+  height: 100%;
+  background: var(--home-icon) var(--home-position)/var(--home-size) no-repeat;
+}
+.homeIcon-FuNwkv > path {
+  display: none;
+}
 :root {
   --usrbg-modal-x-offset: -180px;
   --usrbg-modal-y-offset: -60px;
   --usrbg-modal-width: 700px;
   --usrbg-modal-height: 600px;
-  --home-icon: url(https://i.imgur.com/wtfw5Jc.jpg);
-  --home-position: center;
-	--home-size: 40px;
 }
 #app-mount .header-QKLPzZ .wrapper-3t9DeA[style*="width: 80px;"] {
   margin-right: 0 !important;
