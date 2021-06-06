@@ -20,11 +20,11 @@
   padding: 6px;
 }
 .winButtonClose-1HsbF-::after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/close.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/close.png");
   background-size: 100%;
 }
 .winButtonClose-1HsbF-:hover::after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/close_hover.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/close_hover.png");
   background-size: 100%;
 }
 
@@ -932,10 +932,10 @@
   background-repeat: no-repeat;
 }
 .navList-2UtuhC #sticker-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/stickers.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/stickers.png");
 }
 .navList-2UtuhC #emoji-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/emoji.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/emoji.png");
 }
 .navList-2UtuhC .navButton-2gQCx- {
   width: 40px;
@@ -1450,13 +1450,13 @@ div:not(.headerFill-adLl4x)
 }
 
 [aria-controls="USER_INFO-tab"]:after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/user.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/user.png");
 }
 [aria-controls="MUTUAL_GUILDS-tab"]:after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/guild.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/guild.png");
 }
 [aria-controls="MUTUAL_FRIENDS-tab"]:after {
-  background-image: url("https://gonzyui.github.io/GonzTheme/assets/friend.png");
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/friend.png");
 }
 .connectedAccount-36nQx7 {
   border: solid #151b27;
