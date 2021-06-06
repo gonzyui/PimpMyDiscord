@@ -47,6 +47,13 @@
   rx: 2px;
 }
 
+.container-3baos1:before {
+  content: "PimpMyDiscord";
+  right: 50%;
+  text-align: right;
+  transform: translateX(50%);
+}
+
 .peopleColumn-29fq28 {
   background: var(--background-primary);
 }
