@@ -2234,7 +2234,6 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 [aria-label^="Gonz"] .profileBadges-3cJaE1:hover::before,
 [aria-label^="MathDiprio🌇"] .profileBadges-3cJaE1:hover::before {
   content: "Developers god";
-  color: #dc143c;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -2272,7 +2271,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 .privateChannels-1nO12o [data-user-id="280045641604792322"] .overflow-WK9Ogt,
 .privateChannels-1nO12o [aria-label^="Gonz"] .overflow-WK9Ogt {
   animation: flow 10s ease-in-out infinite;
-  background: linear-gradient(-60deg, #1a8ce9 40%, #03111b 80%, #1a8ce9 100%);
+  background: linear-gradient(-60deg, #1a6de9 40%, #03111b 80%, #1a5ce9 100%);
   background-size: 300%;
   -webkit-background-clip: text;
   background-clip: text;
@@ -2291,7 +2290,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 .privateChannels-1nO12o [data-user-id="310428391084130304"] .overflow-WK9Ogt,
 .privateChannels-1nO12o [aria-label^="MathDiprio🌇"] .overflow-WK9Ogt {
   animation: flow 10s ease-in-out infinite;
-  background: linear-gradient(-60deg, #ffe23b, #a18400, #ffe23b);
+  background: linear-gradient(-60deg, #f31818, #610202, #ff3b3b);
   background-size: 300%;
   -webkit-background-clip: text;
   background-clip: text;
