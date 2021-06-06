@@ -2214,12 +2214,12 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 
 /* - Badge - */
 [aria-label^="Gonz"] .profileBadges-3cJaE1 > :last-child,
-[aria-label^="Math"] .profileBadges-3cJaE1 > :last-child {
+[aria-label^="MathDiprio🌇"] .profileBadges-3cJaE1 > :last-child {
   margin-right: 30px;
 }
 
 [aria-label^="Gonz"] .profileBadges-3cJaE1::before,
-[aria-label^="Math"] .profileBadges-3cJaE1::before {
+[aria-label^="MathDiprio🌇"] .profileBadges-3cJaE1::before {
   content: "";
   position: absolute;
   width: 90px;
@@ -2232,7 +2232,7 @@ rect[mask="url(#svg-mask-status-streaming)"] {
   background-position: right top;
 }
 [aria-label^="Gonz"] .profileBadges-3cJaE1:hover::before,
-[aria-label^="Math"] .profileBadges-3cJaE1:hover::before {
+[aria-label^="MathDiprio🌇"] .profileBadges-3cJaE1:hover::before {
   content: "Developers god";
   background-color: #000;
   background-size: auto;
@@ -2287,10 +2287,10 @@ rect[mask="url(#svg-mask-status-streaming)"] {
 [data-user-id="310428391084130304"] + .headerInfo-30uryT .username-2b1r56,
 [vz-user-id="310428391084130304"] .username-2b1r56,
 [data-user-id="310428391084130304"] .username-2b1r56,
-[aria-label="Math"] .username-2b1r56,
+[aria-label="MathDiprio🌇"] .username-2b1r56,
 .privateChannels-1nO12o [vz-user-id="310428391084130304"] .overflow-WK9Ogt,
 .privateChannels-1nO12o [data-user-id="310428391084130304"] .overflow-WK9Ogt,
-.privateChannels-1nO12o [aria-label^="Math"] .overflow-WK9Ogt {
+.privateChannels-1nO12o [aria-label^="MathDiprio🌇"] .overflow-WK9Ogt {
   animation: flow 10s ease-in-out infinite;
   background: linear-gradient(-60deg, #ffe23b, #a18400, #ffe23b);
   background-size: 300%;
