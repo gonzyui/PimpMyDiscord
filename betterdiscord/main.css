@@ -1743,6 +1743,7 @@ rect[mask="url(#svg-mask-status-streaming)"] { fill: var(--streaming);}
 /* Deleting Discord watermark */
 .wordmark-2iDDfm svg {
   display: var(--discord-logo);
+  background-image: url("https://gonzyui.github.io/PimpMyDiscord/assets/icon.png");
 }
 
 /* Watch stream popout */
